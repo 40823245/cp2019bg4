@@ -1,0 +1,4 @@
+name: Dart of sum
+mode: dart
+files:
+  - name: sum.dart
