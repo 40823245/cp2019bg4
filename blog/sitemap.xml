@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://40823245.github.io/cp2019bg4/blog/</loc>
-<lastmod>2019-12-04T16:13:28-00:00</lastmod>
+<lastmod>2019-12-04T17:31:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40823245.github.io/cp2019bg4/blog/archives.html</loc>
-<lastmod>2019-12-04T16:13:28-00:00</lastmod>
+<lastmod>2019-12-04T17:31:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40823245.github.io/cp2019bg4/blog/tags.html</loc>
-<lastmod>2019-12-04T16:13:28-00:00</lastmod>
+<lastmod>2019-12-04T17:31:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40823245.github.io/cp2019bg4/blog/categories.html</loc>
-<lastmod>2019-12-04T16:13:28-00:00</lastmod>
+<lastmod>2019-12-04T17:31:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,13 +46,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://40823245.github.io/cp2019bg4/blog/2018-Fall-32-bit-Windows.html</loc>
-<lastmod>2018-09-10T11:00:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://40823245.github.io/cp2019bg4/blog/category/misc.html</loc>
 <lastmod>2019-12-04T16:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -67,22 +60,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://40823245.github.io/cp2019bg4/blog/tag/2018fallcp.html</loc>
-<lastmod>2018-09-10T11:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://40823245.github.io/cp2019bg4/blog/author/40823245.html</loc>
 <lastmod>2019-12-04T16:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://40823245.github.io/cp2019bg4/blog/author/yen.html</loc>
-<lastmod>2018-09-10T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
