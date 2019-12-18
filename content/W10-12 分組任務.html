@@ -67,7 +67,7 @@
 <link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
 <script type="text/javascript">SyntaxHighlighter.all();</script>
 
-<!-- 啟用 LaTeX equations 編輯 -->
+<!-- for LaTeX equations 暫時不用
 <script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
 <script type="text/javascript">
 init_mathjax = function() {
@@ -88,7 +88,7 @@ init_mathjax = function() {
 }
 init_mathjax();
 </script>
-
+-->
 <!-- 暫時不用
 <script src="./../cmsimde/static/fengari-web.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
@@ -99,11 +99,6 @@ init_mathjax();
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
 -->
-<style>
-img.add_border {
-    border: 3px solid blue;
-}
-</style>
 
 </head>
 <body>
@@ -143,7 +138,7 @@ img.add_border {
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li><a href='About.html'>About</a><li class='has-children'><a href='WORKS.html'>WORKS</a><ul class='dropdown'><li><a href='W10-12 分組任務.html'>W10-12 分組任務</a></li>
+                     <li><a href='About.html'>About</a><li class='has-children'><a href='WORKS.html'>WORKS</a><ul class='dropdown'><li><a href='W10-12 分組任務.html'>W10-12 分組任務</a><li><a href='JavaScript.html'>JavaScript</a></li>
                       </ul>
                 </nav>
               </div>
@@ -154,7 +149,7 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">WORKS << <a href='WORKS.html'>Previous</a> <br /><h1>W10-12 分組任務</h1>
+    <div id="tipue_search_content">WORKS << <a href='WORKS.html'>Previous</a> <a href='JavaScript.html'>Next</a> >> JavaScript<br /><h1>W10-12 分組任務</h1>
 <script>
 function getDart(dirname){
     source = "https://dartpad.github.io/embed-dart.html?gh_owner=40823245&gh_repo=cp2019bg4&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
@@ -190,7 +185,8 @@ document.getElementById("iframe").height = 600 ;
 <p><button onclick="getFlutter('flutter1')">Flutter1</button> <button onclick="getFlutter('flutter2')">Flutter2</button> <button onclick="getFlutter('flutter3')">Flutter3</button></p>
 <!-- 內建放入的 Dart 原始碼 -->
 <p><button onclick="largest()">放大</button> <button onclick="original()">回復</button></p>
-<p><br/><br/><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823245&amp;gh_repo=cp2019bg4&amp;gh_path=downloads/dart_ex/mass_spring_damping&amp;theme=dark" width="800"></iframe></p><br />WORKS << <a href='WORKS.html'>Previous</a> </div>
+<p><br/><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823245&amp;gh_repo=cp2019bg4&amp;gh_path=downloads/dart_ex/mass_spring_damping&amp;theme=dark" width="800"></iframe></p>
+<br />WORKS << <a href='WORKS.html'>Previous</a> <a href='JavaScript.html'>Next</a> >> JavaScript</div>
         
     <!-- footer -->
       <div class="container">
