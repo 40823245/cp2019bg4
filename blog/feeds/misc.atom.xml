@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CP 2019BG4 - Misc</title><link href="https://40823245.github.io/cp2019bg4/blog/" rel="alternate"></link><link href="https://40823245.github.io/cp2019bg4/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40823245.github.io/cp2019bg4/blog/</id><updated>2019-12-04T16:00:00+08:00</updated><entry><title>W10-W12分組作業</title><link href="https://40823245.github.io/cp2019bg4/blog/Team%20homework%20video.html" rel="alternate"></link><published>2019-12-04T16:00:00+08:00</published><updated>2019-12-04T16:00:00+08:00</updated><author><name>40823245</name></author><id>tag:40823245.github.io,2019-12-04:/cp2019bg4/blog/Team homework video.html</id><summary type="html">&lt;p&gt;分組執行溫度轉換程式&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CP 2019BG4 - Misc</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2019-12-04T16:00:00+08:00</updated><entry><title>W10-W12分組作業</title><link href=".%5CTeam%20homework%20video.html" rel="alternate"></link><published>2019-12-04T16:00:00+08:00</published><updated>2019-12-04T16:00:00+08:00</updated><author><name>40823245</name></author><id>tag:None,2019-12-04:.\Team homework video.html</id><summary type="html">&lt;p&gt;分組執行溫度轉換程式&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;分組執行溫度轉換程式&lt;/p&gt;
 
 
@@ -61,4 +61,5 @@ document.getElementById("iframe").height = 600 ;
 &lt;p&gt;先到&lt;a href="http://mde.tw/cp2019/content/Task2.html"&gt;老師的教學網站&lt;/a&gt;→點選Temp1→複製Temp1的程式→定義℃轉換℉和℉轉換℃→把程式做成yaml檔、dart檔等等→再到W10-12dart程式中增加forCF按鈕。&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 
-&lt;p&gt;透過小組分工合作，順利的把網站架起來，也透過討論，把程式寫出來，雖然當中也有遇到困難，但是再詢問老師之後或小組討論後，都能解決問題。&lt;/p&gt;</content><category term="2019FallCP"></category></entry></feed>
+&lt;p&gt;透過小組分工合作，順利的把網站架起來，也透過討論，把程式寫出來，雖然當中也有遇到困難，但是再詢問老師之後或小組討論後，都能解決問題。&lt;/p&gt;</content><category term="2019FallCP"></category></entry><entry><title>2019 w10~w16小組概況</title><link href=".%5Cw10~w16%E5%B0%8F%E7%B5%84%E6%A6%82%E6%B3%81.html" rel="alternate"></link><published>2019-10-31T16:00:00+08:00</published><updated>2019-10-31T16:00:00+08:00</updated><author><name>40823217</name></author><id>tag:None,2019-10-31:.\w10~w16小組概況.html</id><content type="html">&lt;p&gt;w10~w16小組概況
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/i5eDz-BZB7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2019 w10~w16小組概況"></category></entry></feed>
